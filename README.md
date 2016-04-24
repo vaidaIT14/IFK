@@ -18,7 +18,7 @@ Web have:
       calender
       Ability from this there go to profile 
 
-3. Profile settings must window:
+3. Profile settings window must have:
    a. ability change picture,
    b. Add and change information about yourself
    c. ability to delete account.
