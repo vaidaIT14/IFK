@@ -1,6 +1,6 @@
 # projektas
 
-Web have:
+
 
 1. Registration must have:
    a. New account creatinion,
